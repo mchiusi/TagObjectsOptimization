@@ -20,3 +20,10 @@ PlotGoodGridSearch/plots*/
 RoundsOptimizationV_.txt
 fullBlownCreator.*
 *.nfs*
+*.o
+*.exe
+*.h
+*ruth*
+*bckp*
+*bkp*
+MergeTrees/run_202*
